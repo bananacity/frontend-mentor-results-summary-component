@@ -159,6 +159,7 @@ body {
   max-width: 736px;
   width: 100%;
   margin: 0 41px;
+  box-shadow: 0 30px 60px 0 rgba(61, 108, 236, 0.16);
 }
 
 /* Result container */
