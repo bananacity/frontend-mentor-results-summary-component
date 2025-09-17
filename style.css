@@ -194,6 +194,7 @@ body {
 
 .score-total {
   color: var(--color-navy-200);
+  opacity: 51.68%;
 }
 
 .result-text {
